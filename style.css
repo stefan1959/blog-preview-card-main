@@ -18,7 +18,7 @@ body {
   max-width: 100vw;
   padding: 1rem;
   font-family: "Figtree", sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 500;
   background-color: hsl(var(--yellow));
   color: hsl(var(--gray-500));
@@ -33,7 +33,7 @@ body {
   border-radius: 1rem;
   border: 1px solid hsl(var(--gray-500));
   box-shadow: 7px 7px 0 hsl(var(--gray-950));
-  margin-bottom: 1rem;
+  margin-block-end: 1rem;
 }
 .card__hero {
   padding-bottom: 0.5rem;
